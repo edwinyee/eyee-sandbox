@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-echo test script
+echo test script again
